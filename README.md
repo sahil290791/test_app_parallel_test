@@ -1,4 +1,4 @@
-# test_app_parallel_test
+# Test App
 
 Adding --format progress to `.rspec` file causes the tests to run twice as shown below:
 ```
