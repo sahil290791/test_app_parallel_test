@@ -1,0 +1,5 @@
+--color
+--format=documentation
+--format html -o tmp/rspec.html
+--profile 2
+--format progress
